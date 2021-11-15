@@ -1,2 +1,2 @@
-websockets==2.1
+websockets==9.1
 aioredis==0.1.0
